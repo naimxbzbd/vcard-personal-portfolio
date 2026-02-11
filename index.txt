@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = MD NAEEM
-MD NAEEM
+alt = Naim Xbz
+Naim Xbz
 Digital Marketing,& SEO Specialist
 
 Show Contacts
